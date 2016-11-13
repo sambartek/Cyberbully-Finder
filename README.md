@@ -1,3 +1,5 @@
+## Team
+Cyberbully Finder was created by Sam Bartek and Zidaan Dutta at Vandy Hacks III.
 ## Inspiration
 Cyberbullying is becoming an increasing problem on social media and it is hard to make people change their online behavior.  Individuals feel as if they are actually hurting anyone with the content that they post on social media sites, but in reality it can have a major impact on cyberbully victims.
 ## What it does
