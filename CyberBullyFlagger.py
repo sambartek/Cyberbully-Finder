@@ -6,17 +6,17 @@ import twitter
 from watson_developer_cloud import NaturalLanguageClassifierV1 as NaturalLanguageClassifier
 
 #twitter config
-consumer_key = "IMz6l2MAyxTQtzIaqfEZxKZe5"  # ENTER YOUR API KEY
-consumer_secret = "db0AQe0DCTpDw2te8egPBLZ82hsUWrQGz5OD8t2Rmpb2Y2NX23"  # ENTER YOUR API SECRET
-access_token = "791676519202430976-lD6f6EWUOZQRhw8Vru8wubcCikJ7lHp"  # ENTER YOUR ACCESS TOKEN"
-access_secret = "DPTnmhgxpup8wH1JfmNeW5RrEazFBblWveJrmROsPfgLf"  # ENTER YOUR ACCESS TOKEN SECRET
+consumer_key = "<key>"  # ENTER YOUR API KEY
+consumer_secret = "<key>"  # ENTER YOUR API SECRET
+access_token = "<key>"  # ENTER YOUR ACCESS TOKEN"
+access_secret = "<key>"  # ENTER YOUR ACCESS TOKEN SECRET
 callback_url = "http://builditsociety.com/"
 twitter_api = twitter.Api(consumer_key, consumer_secret, access_token, access_secret)
 api = twitter.Api(consumer_key, consumer_secret, access_token, access_secret)
 
 #watson config
-nlc_username='f0099645-59b1-4260-83c6-14b4e479c004'
-nlc_password='6QYsOarXYuc5'
+nlc_username='<username>'
+nlc_password='<password>'
 natural_language_classifier = NaturalLanguageClassifier(username=nlc_username, password=nlc_password)
 
 #menu
