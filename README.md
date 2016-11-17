@@ -1,5 +1,5 @@
 ## Awards
-Winner of #HackHarassment Challenge at Vanderbilt Hackathon.
+Winner of #HackHarassment Challenge at the Vanderbilt Hackathon.
 ## Team
 Cyberbully Finder was created by Sam Bartek and Zidaan Dutta at Vandy Hacks III.
 ## Inspiration
